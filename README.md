@@ -1,4 +1,4 @@
-# Outfit-Generator-
+# Outfit-Generator
 
 👗***Outfit Generator*** is an original and intelligent outfit recommendation system based on image processing, linear algebra and Python that analyzes the dominant color of a clothing item using image processing and Singular Value Decomposition (SVD), then generates personalized outfit suggestions based on color harmony, style, season, and clothing attributes. To rank the recommendations, the system employs a mathematical model based on SVD and the Moore–Penrose pseudoinverse, allowing it to score and select the most suitable clothing combinations.
 
