@@ -1,0 +1,643 @@
+{
+  "Articole_vestimentare": [
+    {
+      "ID": 0,
+      "Imagine": "./imagini/0.png",
+      "Categorie": "Top",
+      "Anotimp": "Primavara-Toamna",
+      "Stil": "Casual",
+      "RGB": [
+        98,
+        173,
+        228
+      ]
+    },
+    {
+      "ID": 1,
+      "Imagine": "./imagini/1.png",
+      "Categorie": "Top",
+      "Anotimp": "Primavara-Toamna",
+      "Stil": "Formal",
+      "RGB": [
+        115,
+        19,
+        45
+      ]
+    },
+    {
+      "ID": 2,
+      "Imagine": "./imagini/2.png",
+      "Categorie": "Top",
+      "Anotimp": "Iarna",
+      "Stil": "Sportiv",
+      "RGB": [
+        28,
+        28,
+        28
+      ]
+    },
+    {
+      "ID": 3,
+      "Imagine": "./imagini/3.png",
+      "Categorie": "Top",
+      "Anotimp": "Vara",
+      "Stil": "Casual",
+      "RGB": [
+        240,
+        235,
+        204
+      ]
+    },
+    {
+      "ID": 4,
+      "Imagine": "./imagini/4.png",
+      "Categorie": "Top",
+      "Anotimp": "Primavara-Toamna",
+      "Stil": "Formal",
+      "RGB": [
+        213,
+        209,
+        219
+      ]
+    },
+    {
+      "ID": 5,
+      "Imagine": "./imagini/5.png",
+      "Categorie": "Bottom",
+      "Anotimp": "Primavara-Toamna",
+      "Stil": "Casual",
+      "RGB": [
+        156,
+        179,
+        193
+      ]
+    },
+    {
+      "ID": 6,
+      "Imagine": "./imagini/6.png",
+      "Categorie": "Bottom",
+      "Anotimp": "Primavara-Toamna",
+      "Stil": "Sportiv",
+      "RGB": [
+        41,
+        38,
+        46
+      ]
+    },
+    {
+      "ID": 7,
+      "Imagine": "./imagini/7.png",
+      "Categorie": "Bottom",
+      "Anotimp": "Vara",
+      "Stil": "Elegant",
+      "RGB": [
+        38,
+        34,
+        33
+      ]
+    },
+    {
+      "ID": 8,
+      "Imagine": "./imagini/8.png",
+      "Categorie": "Bottom",
+      "Anotimp": "Iarna",
+      "Stil": "Formal",
+      "RGB": [
+        25,
+        31,
+        54
+      ]
+    },
+    {
+      "ID": 9,
+      "Imagine": "./imagini/9.png",
+      "Categorie": "Pantofi",
+      "Anotimp": "Vara",
+      "Stil": "Elegant",
+      "RGB": [
+        70,
+        71,
+        66
+      ]
+    },
+    {
+      "ID": 10,
+      "Imagine": "./imagini/10.png",
+      "Categorie": "Pantofi",
+      "Anotimp": "Primavara-Toamna",
+      "Stil": "Sportiv",
+      "RGB": [
+        168,
+        126,
+        147
+      ]
+    },
+    {
+      "ID": 11,
+      "Imagine": "./imagini/11.png",
+      "Categorie": "Pantofi",
+      "Anotimp": "Vara",
+      "Stil": "Casual",
+      "RGB": [
+        171,
+        172,
+        169
+      ]
+    },
+    {
+      "ID": 12,
+      "Imagine": "./imagini/12.png",
+      "Categorie": "Pantofi",
+      "Anotimp": "Iarna",
+      "Stil": "Casual",
+      "RGB": [
+        71,
+        70,
+        65
+      ]
+    },
+    {
+      "ID": 13,
+      "Imagine": "./imagini/13.png",
+      "Categorie": "Extra",
+      "Anotimp": "Iarna",
+      "Stil": "Elegant",
+      "RGB": [
+        46,
+        29,
+        19
+      ]
+    },
+    {
+      "ID": 14,
+      "Imagine": "./imagini/14.png",
+      "Categorie": "Extra",
+      "Anotimp": "Primavara-Toamna",
+      "Stil": "Casual",
+      "RGB": [
+        196,
+        188,
+        176
+      ]
+    },
+    {
+      "ID": 15,
+      "Imagine": "./imagini/15.png",
+      "Categorie": "Extra",
+      "Anotimp": "Iarna",
+      "Stil": "Sportiv",
+      "RGB": [
+        221,
+        54,
+        110
+      ]
+    },
+    {
+      "ID": 16,
+      "Imagine": "./imagini/16.png",
+      "Categorie": "Extra",
+      "Anotimp": "Primavara-Toamna",
+      "Stil": "Casual",
+      "RGB": [
+        107,
+        136,
+        173
+      ]
+    },
+    {
+      "ID": 17,
+      "Imagine": "./imagini/17.png",
+      "Categorie": "Top",
+      "Anotimp": "Vara",
+      "Stil": "Elegant",
+      "RGB": [
+        216,
+        201,
+        191
+      ]
+    },
+    {
+      "ID": 18,
+      "Imagine": "./imagini/18.png",
+      "Categorie": "Bottom",
+      "Anotimp": "Primavara-Toamna",
+      "Stil": "Casual",
+      "RGB": [
+        217,
+        209,
+        192
+      ]
+    },
+    {
+      "ID": 19,
+      "Imagine": "./imagini/19.png",
+      "Categorie": "Bottom",
+      "Anotimp": "Primavara-Toamna",
+      "Stil": "Formal",
+      "RGB": [
+        18,
+        18,
+        19
+      ]
+    },
+    {
+      "ID": 20,
+      "Imagine": "./imagini/20.png",
+      "Categorie": "Top",
+      "Anotimp": "Vara",
+      "Stil": "Sportiv",
+      "RGB": [
+        206,
+        64,
+        116
+      ]
+    },
+    {
+      "ID": 21,
+      "Imagine": "./imagini/21.png",
+      "Categorie": "Pantofi",
+      "Anotimp": "Primavara-Toamna",
+      "Stil": "Formal",
+      "RGB": [
+        41,
+        41,
+        43
+      ]
+    },
+    {
+      "ID": 22,
+      "Imagine": "./imagini/22.png",
+      "Categorie": "Top",
+      "Anotimp": "Primavara-Toamna",
+      "Stil": "Casual",
+      "RGB": [
+        206,
+        204,
+        213
+      ]
+    },
+    {
+      "ID": 23,
+      "Imagine": "./imagini/23.png",
+      "Categorie": "Bottom",
+      "Anotimp": "Primavara-Toamna",
+      "Stil": "Casual",
+      "RGB": [
+        32,
+        59,
+        89
+      ]
+    },
+    {
+      "ID": 24,
+      "Imagine": "./imagini/24.png",
+      "Categorie": "Bottom",
+      "Anotimp": "Vara",
+      "Stil": "Casual",
+      "RGB": [
+        115,
+        103,
+        93
+      ]
+    },
+    {
+      "ID": 25,
+      "Imagine": "./imagini/25.png",
+      "Categorie": "Bottom",
+      "Anotimp": "Iarna",
+      "Stil": "Casual",
+      "RGB": [
+        27,
+        27,
+        27
+      ]
+    },
+    {
+      "ID": 26,
+      "Imagine": "./imagini/26.png",
+      "Categorie": "Bottom",
+      "Anotimp": "Vara",
+      "Stil": "Sportiv",
+      "RGB": [
+        54,
+        54,
+        56
+      ]
+    },
+    {
+      "ID": 27,
+      "Imagine": "./imagini/27.png",
+      "Categorie": "Bottom",
+      "Anotimp": "Iarna",
+      "Stil": "Sportiv",
+      "RGB": [
+        221,
+        182,
+        190
+      ]
+    },
+    {
+      "ID": 28,
+      "Imagine": "./imagini/28.png",
+      "Categorie": "Bottom",
+      "Anotimp": "Vara",
+      "Stil": "Formal",
+      "RGB": [
+        160,
+        158,
+        163
+      ]
+    },
+    {
+      "ID": 29,
+      "Imagine": "./imagini/29.png",
+      "Categorie": "Bottom",
+      "Anotimp": "Iarna",
+      "Stil": "Elegant",
+      "RGB": [
+        26,
+        22,
+        19
+      ]
+    },
+    {
+      "ID": 30,
+      "Imagine": "./imagini/30.png",
+      "Categorie": "Bottom",
+      "Anotimp": "Primavara-Toamna",
+      "Stil": "Elegant",
+      "RGB": [
+        16,
+        15,
+        15
+      ]
+    },
+    {
+      "ID": 31,
+      "Imagine": "./imagini/31.png",
+      "Categorie": "Top",
+      "Anotimp": "Vara",
+      "Stil": "Formal",
+      "RGB": [
+        25,
+        25,
+        26
+      ]
+    },
+    {
+      "ID": 32,
+      "Imagine": "./imagini/32.png",
+      "Categorie": "Top",
+      "Anotimp": "Iarna",
+      "Stil": "Elegant",
+      "RGB": [
+        226,
+        226,
+        215
+      ]
+    },
+    {
+      "ID": 33,
+      "Imagine": "./imagini/33.png",
+      "Categorie": "Top",
+      "Anotimp": "Primavara-Toamna",
+      "Stil": "Sportiv",
+      "RGB": [
+        215,
+        205,
+        225
+      ]
+    },
+    {
+      "ID": 34,
+      "Imagine": "./imagini/34.png",
+      "Categorie": "Top",
+      "Anotimp": "Iarna",
+      "Stil": "Formal",
+      "RGB": [
+        23,
+        27,
+        40
+      ]
+    },
+    {
+      "ID": 35,
+      "Imagine": "./imagini/35.png",
+      "Categorie": "Top",
+      "Anotimp": "Primavara-Toamna",
+      "Stil": "Elegant",
+      "RGB": [
+        117,
+        39,
+        54
+      ]
+    },
+    {
+      "ID": 36,
+      "Imagine": "./imagini/36.png",
+      "Categorie": "Extra",
+      "Anotimp": "Iarna",
+      "Stil": "Casual",
+      "RGB": [
+        193,
+        184,
+        172
+      ]
+    },
+    {
+      "ID": 37,
+      "Imagine": "./imagini/37.png",
+      "Categorie": "Extra",
+      "Anotimp": "Iarna",
+      "Stil": "Formal",
+      "RGB": [
+        232,
+        224,
+        212
+      ]
+    },
+    {
+      "ID": 38,
+      "Imagine": "./imagini/38.png",
+      "Categorie": "Extra",
+      "Anotimp": "Primavara-Toamna",
+      "Stil": "Sportiv",
+      "RGB": [
+        37,
+        37,
+        37
+      ]
+    },
+    {
+      "ID": 39,
+      "Imagine": "./imagini/39.png",
+      "Categorie": "Extra",
+      "Anotimp": "Primavara-Toamna",
+      "Stil": "Formal",
+      "RGB": [
+        207,
+        194,
+        176
+      ]
+    },
+    {
+      "ID": 40,
+      "Imagine": "./imagini/40.png",
+      "Categorie": "Extra",
+      "Anotimp": "Primavara-Toamna",
+      "Stil": "Elegant",
+      "RGB": [
+        215,
+        208,
+        199
+      ]
+    },
+    {
+      "ID": 41,
+      "Imagine": "./imagini/41.png",
+      "Categorie": "Pantofi",
+      "Anotimp": "Vara",
+      "Stil": "Casual",
+      "RGB": [
+        171,
+        153,
+        139
+      ]
+    },
+    {
+      "ID": 42,
+      "Imagine": "./imagini/42.png",
+      "Categorie": "Pantofi",
+      "Anotimp": "Vara",
+      "Stil": "Formal",
+      "RGB": [
+        217,
+        188,
+        173
+      ]
+    },
+    {
+      "ID": 43,
+      "Imagine": "./imagini/43.png",
+      "Categorie": "Pantofi",
+      "Anotimp": "Vara",
+      "Stil": "Sportiv",
+      "RGB": [
+        210,
+        208,
+        207
+      ]
+    },
+    {
+      "ID": 44,
+      "Imagine": "./imagini/44.png",
+      "Categorie": "Pantofi",
+      "Anotimp": "Iarna",
+      "Stil": "Sportiv",
+      "RGB": [
+        49,
+        59,
+        75
+      ]
+    },
+    {
+      "ID": 45,
+      "Imagine": "./imagini/45.png",
+      "Categorie": "Pantofi",
+      "Anotimp": "Iarna",
+      "Stil": "Formal",
+      "RGB": [
+        24,
+        23,
+        28
+      ]
+    },
+    {
+      "ID": 46,
+      "Imagine": "./imagini/46.png",
+      "Categorie": "Pantofi",
+      "Anotimp": "Iarna",
+      "Stil": "Elegant",
+      "RGB": [
+        35,
+        35,
+        33
+      ]
+    },
+    {
+      "ID": 47,
+      "Imagine": "./imagini/47.png",
+      "Categorie": "Pantofi",
+      "Anotimp": "Primavara-Toamna",
+      "Stil": "Elegant",
+      "RGB": [
+        210,
+        177,
+        177
+      ]
+    },
+    {
+      "ID": 48,
+      "Imagine": "./imagini/48.png",
+      "Categorie": "Top",
+      "Anotimp": "Iarna",
+      "Stil": "Casual",
+      "RGB": [
+        207,
+        203,
+        204
+      ]
+    }
+  ],
+  "Ratingul_Utilizatorului": [
+    1,
+    4,
+    5,
+    3,
+    4,
+    2,
+    1,
+    2,
+    3,
+    5,
+    1,
+    4,
+    2,
+    1,
+    3,
+    5,
+    4,
+    3,
+    2,
+    5,
+    4,
+    1,
+    3,
+    5,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3
+  ]
+}
