@@ -29,4 +29,7 @@ The recommendation engine then analyzes these features and generates complete ou
 
 The objective of this project is to demonstrate how computer vision, linear algebra, and recommendation algorithms can be combined to build a smart fashion assistant capable of transforming a single clothing image into personalized outfit suggestions. Last but not least, this project provides an efficient solution for people who struggle to decide what to wear, helping them quickly choose well-matched outfits and look their best.
 
+## 💡Relevance on the market
+
+🛍️ What makes this project stand out is its potential to evolve into a profitable product for fashion companies and online retailers. By recommending complementary items to match the uploaded clothes, the app could help fashion platforms increase product discovery and therefore drive additional sales.
   
