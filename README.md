@@ -17,6 +17,9 @@ The recommendation engine then analyzes these features and generates complete ou
 - Style preferences
 - User ratings and preferences.
 
+<img width="547" height="273" alt="image" src="https://github.com/user-attachments/assets/8d3f8c31-44aa-4ead-9584-e83c854cf72b" />
+
+
 ## 🛠️ Technologies
 - Python
 - NumPy
